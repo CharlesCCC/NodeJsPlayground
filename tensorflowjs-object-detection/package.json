@@ -1,5 +1,5 @@
 {
-  "name": "tensorflowjs-real-time-object-detection",
+  "name": "tensorflowjs-object-detection",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -10,7 +10,7 @@
     "react": "16.5.2",
     "react-dom": "16.5.2",
     "react-magic-dropzone": "1.0.1",
-    "react-scripts": "^2.1.5"
+    "react-scripts": "^2.1.8"
   },
   "devDependencies": {},
   "scripts": {
